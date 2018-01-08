@@ -24,11 +24,3 @@ class Skobka
 	} 
 }
 
-$str = "(())";
-$sk_ex = new Skobka();
-try{
-	echo var_dump($sk_ex->compare($str));
-}catch(InvalidArgumentException $e){
-	echo $e->getMessage();
-}
-
