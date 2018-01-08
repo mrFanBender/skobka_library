@@ -1,0 +1,14 @@
+{
+    "name": "habibullinrustam/skobka_library",
+    "description": "otus lesson1 homework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Habibullin Rustam",
+            "email": "habibullinrustam@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
