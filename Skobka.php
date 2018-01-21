@@ -1,5 +1,5 @@
 <?php
-namespace habibullinrustam\skobka_library;
+
 class Skobka
 {
 	private $open_sk = 0;
