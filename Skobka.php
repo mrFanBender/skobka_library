@@ -1,4 +1,5 @@
 <?php
+namespace habibullinrustam\skobka_library;
 
 class Skobka
 {
