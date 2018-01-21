@@ -9,6 +9,6 @@
             "email": "habibullinrustam@yandex.ru"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {}
 }
